@@ -79,7 +79,7 @@ export const features = {
     pretitle: "Alwalys online",
     title: "Real-time support with cloud",
     subtitle:
-      "Tellus lacus morbi sagittis lacus in. Amet nisl at mauris enim accumsan nisi, tincidunt vel. Enim ipsum, amet quis ullamcorper eget ut.",
+      "layanan individu atau organisasi untuk menyimpan dan mempublikasikan situs web mereka di internet. menyediakan infrastruktur dan sumber daya yang diperlukan untuk menyimpan file dan data situs web, sehingga dapat diakses oleh pengguna di seluruh dunia..",
     btnLink: "Learn more",
     btnIcon: ArrowRightImg,
     image: Feature1Img,
